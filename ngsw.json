@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1629110738969,
+  "index": "https://nirmal2698.github.io/angular-pwa/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://nirmal2698.github.io/angular-pwa/favicon.ico",
+        "https://nirmal2698.github.io/angular-pwa/index.html",
+        "https://nirmal2698.github.io/angular-pwa/main.ce1681818eda1f9bbc47.js",
+        "https://nirmal2698.github.io/angular-pwa/manifest.webmanifest",
+        "https://nirmal2698.github.io/angular-pwa/polyfills.52a65a8545a355c5b662.js",
+        "https://nirmal2698.github.io/angular-pwa/runtime.ace6c41a300beb075741.js",
+        "https://nirmal2698.github.io/angular-pwa/styles.31d6cfe0d16ae931b73c.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://nirmal2698.github.io/angular-pwa/assets/icons/icon-128x128.png",
+        "https://nirmal2698.github.io/angular-pwa/assets/icons/icon-144x144.png",
+        "https://nirmal2698.github.io/angular-pwa/assets/icons/icon-152x152.png",
+        "https://nirmal2698.github.io/angular-pwa/assets/icons/icon-192x192.png",
+        "https://nirmal2698.github.io/angular-pwa/assets/icons/icon-384x384.png",
+        "https://nirmal2698.github.io/angular-pwa/assets/icons/icon-512x512.png",
+        "https://nirmal2698.github.io/angular-pwa/assets/icons/icon-72x72.png",
+        "https://nirmal2698.github.io/angular-pwa/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://nirmal2698.github.io/angular-pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://nirmal2698.github.io/angular-pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://nirmal2698.github.io/angular-pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://nirmal2698.github.io/angular-pwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://nirmal2698.github.io/angular-pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://nirmal2698.github.io/angular-pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://nirmal2698.github.io/angular-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://nirmal2698.github.io/angular-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://nirmal2698.github.io/angular-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://nirmal2698.github.io/angular-pwa/index.html": "e2cf8bd4401748993f70213e9716b58ce7d47b6f",
+    "https://nirmal2698.github.io/angular-pwa/main.ce1681818eda1f9bbc47.js": "e5cabd35e7bf918d3c2cef5a9b020e95f3b9c1a7",
+    "https://nirmal2698.github.io/angular-pwa/manifest.webmanifest": "647db4fba4be264d65d1cbc9d3c6606d05610dcf",
+    "https://nirmal2698.github.io/angular-pwa/polyfills.52a65a8545a355c5b662.js": "a90feb9f98f70c4b8a53ee8667c96bd10094ec2c",
+    "https://nirmal2698.github.io/angular-pwa/runtime.ace6c41a300beb075741.js": "56346d0efda8950c9910a540dcd3e587350751ed",
+    "https://nirmal2698.github.io/angular-pwa/styles.31d6cfe0d16ae931b73c.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
